@@ -28,8 +28,8 @@ El script descarga el reporte en formato CSV correspondiente a la unidad organiz
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/ieee-vtools-event-fetcher.git
-   cd ieee-vtools-event-fetcher
+   git clone https://github.com/SamuelOrtizS/IEEE-Event-Data-Fetcher-Script.git
+   cd IEEE-Event-Data-Fetcher-Script
    ```
 
 ---
